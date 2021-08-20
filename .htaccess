@@ -1,0 +1,2 @@
+#this is the 404 error
+ErrorDocument 404 http://localhost/study/admin/error.php
